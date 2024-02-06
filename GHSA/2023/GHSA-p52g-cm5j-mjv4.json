@@ -74,11 +74,17 @@
 		},
 		{
 			"type": "WEB",
+			"url": "https://security.gentoo.org/glsa/202402-08"
+		},
+		{
+			"type": "WEB",
 			"url": "https://www.openssl.org/news/secadv/20230207.txt"
 		}
 	],
 	"database_specific": {
-		"cwe_ids": [],
+		"cwe_ids": [
+			"CWE-203"
+		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2023-02-08T22:31:42Z",
 		"nvd_published_at": "2023-02-08T20:15:00Z",
