@@ -16,6 +16,7 @@
 		"CGA-phfv-856w-g6rj",
 		"CGA-q94g-vpv9-hw34",
 		"CGA-w8c5-crm7-p3m9",
+		"CGA-x99g-77g2-8ggp",
 		"CGA-xr7j-xw6p-fpq8"
 	],
 	"summary": "`idna` accepts Punycode labels that do not produce any non-ASCII when decoded",
